@@ -44,16 +44,33 @@ a {
   }
 }
 
+.desktop-only {
+  @media screen and (max-width: @min-width) {
+    display: none;
+  }
+}
+
+.mobile-only {
+  display: none;
+  @media screen and (max-width: @min-width) {
+    display: block;
+  }
+}
+
 .section-header {
-  background-image: url("resources/dupla.jpg");
+  // background-image: url("resources/dupla.jpg");
   height: 100vh;
   width: 100%;
+  max-width: 1400px;
+  max-height: 1000px;
+  margin-left: auto;
+  margin-right: auto;
   background-size: cover;
   background-position: center center;
 
   @media screen and (max-width: @min-width) {
     height: 90vh;
-    background-image: url("resources/unica.jpg");
+    // background-image: url("resources/unica.jpg");
   }
 }
 
@@ -75,6 +92,10 @@ a {
     line-height: 1;
     display: flex;
     align-items: center;
+
+    > h4 {
+      margin: 0;
+    }
   }
 }
 
