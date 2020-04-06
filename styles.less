@@ -32,17 +32,28 @@
 body {
   font-family: 'Oxygen', sans-serif;
   color: #6b6b6b;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .section-header {
-  background-image: url("resources/header-mobile.jpeg");
+  background-image: url("resources/dupla.jpg");
   height: 100vh;
   width: 100%;
   background-size: cover;
   background-position: center center;
 
   @media screen and (max-width: @min-width) {
-    background-image: url("resources/header-mobile.jpeg");
+    height: 90vh;
+    background-image: url("resources/unica.jpg");
   }
 }
 
@@ -52,13 +63,19 @@ body {
 }
 .content {
   padding: 80px 50px;
-  
+
   @media screen and (max-width: @min-width) {
     padding: 30px 20px;
   }
 }
 .language-content {
   padding: 20px 50px;
+
+  a {
+    line-height: 1;
+    display: flex;
+    align-items: center;
+  }
 }
 
 .content-center {
@@ -66,7 +83,7 @@ body {
 
  @media screen and (max-width: @min-width) {
    padding: 20px;
- } 
+ }
 }
 
 .row-center {
@@ -146,7 +163,7 @@ body {
 .header_text {
   padding: 20px;
   width: 60%;
-  margin: -100px auto 0 auto;
+  margin: -170px auto 0 auto;
   h1 {
     color: @color-blue-dark;
     text-align: center;
@@ -158,6 +175,7 @@ body {
     padding: 20px;
   }
   @media screen and (max-width: @min-width) {
+    margin: -100px auto 0 auto;
     width: auto;
   }
 }
@@ -220,6 +238,9 @@ body {
     width: 80px;
     height: 80px;
   }
+  .rich-text {
+    text-align: center;
+  }
   @media screen and (max-width: @min-width) {
     margin-top: 30px;
     margin-right: 0;
@@ -262,6 +283,10 @@ body {
 
 footer {
   background-color: @color-coral;
+
+  a {
+    text-decoration: underline;
+  }
 }
 
 
@@ -277,7 +302,7 @@ footer {
   text-align: center;
   margin-bottom: 40px;
   @media screen and (max-width: @min-width) {
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
   }
 }
 h1, h2, h3, h4, p {
@@ -288,7 +313,7 @@ h1 {
   font-size: 54px;
   font-weight: 700;
   @media screen and (max-width: @min-width) {
-    font-size: 34px; 
+    font-size: 34px;
   }
 }
 
