@@ -8,8 +8,8 @@
   <!-- Begin Mailchimp Signup Form -->
   <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
   <title>Educadores en la Covid-19</title>
-  <meta property="og:title" content="Educadores en la Covid-19">
-  <meta property="og:description" content="Queremos acompañar cómo te estás sintiendo y proponer discusiones sobre el rol de la educación y del educador.">
+  <meta property="og:title" content="Estudiantes en la Covid-19">
+  <meta property="og:description" content="Mucho se está hablando sobre enseñanza… Nosotros queremos pensar sobre la educación.">
   <meta property="og:image" content="https://educovid.org/resources/es/unica-compartilhamento.jpg">
   <meta property="og:url" content="https://educovid.org/es.html">
   <meta name="twitter:card" content="summary_large_image">
@@ -22,28 +22,31 @@
   <section class="section" id="header">
     <div class="header_text color-coral">
       <h1 class="">
-        Educadores en la Covid-19
+        Estudiantes en la Covid-19
       </h1>
       <div>
         <p class="rich-text">
-          La pandemia de covid-19 está afectando a muchos sectores de la sociedad, incluida la educación escolar.
+          Mucho se está hablando sobre enseñanza… Nosotros queremos pensar sobre la educación.
           <br>
-
-          Queremos acompañar cómo te estás sintiendo y proponer discusiones sobre el rol de la educación y del educador.
+Queremos acompañar cómo te estás sintiendo y proponer discusiones sobre el rol de la educación y del educador.
           <br>
-
-          ¿Vamos juntos?
+¿Vamos juntos? 
           <br>
           Pronto lanzaremos una encuesta para escucharte.
         </p>
-        <div class="row-single">
-          <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScihJuEZXLXoJzO1xPT1qoQEK7JkbPXSpFX4VaAhQUIWPfnlQ/viewform">Participe de la encuesta</a>
-        <!--   <a class="btn" href="">Continue participando da pesquisa</a> -->
-        </div>
+        <div id="mc_embed_signup">
+        <form action="https://vekante.us19.list-manage.com/subscribe/post?u=c177419fb2ec03ab855a78990&amp;id=c30aa179ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" rel="noreferrer noopener" novalidate>
+            <div id="mc_embed_signup_scroll">
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-mail" required>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div class="clear"><input type="submit" value="Enviar" name="subscribe" id="mc-embedded-subscribe" class="btn"></div>
+            </div>
+        </form>
+      </div>
         
         <div class="row-single">
           <p><a class="rich-text" href="https://educovid.org/"> Si eres <b>educador</b>, pulse aquí. </a>
-         <a class="rich-text" href="https://educovid.org/escuidador.html"> Y si eres <b>cuidador o familiar</b>, pulse aquí.</a></p>
+         <a class="rich-text" href="https://educovid.org/esecuidador.html"> Y si eres <b>familiar o cuidador</b>, pulse aquí.</a></p>
         </div>
         
         
@@ -75,7 +78,7 @@
               1) ESCUCHA
             </h3>
             <p class="rich-text">
-              Cada semana, tú nos cuentas cómo te sientes, qué estás haciendo para ponerte bien y qué estás pensando sobre la educación
+              Cada semana, tú nos cuentas cómo te sientes, qué estás haciendo para ponerte bien y qué estás pensando sobre la educación.
             </p>
           </div>
         </div>
@@ -86,7 +89,7 @@
             2) INTERCAMBIO
             </h3>
             <p class="rich-text">
-              Te enviaremos semanalmente el termómetro emocional de los profesores e ideas de bienestar y reflexión
+              Semanalmente ofrecemos contenidos y oportunidades para el diálogo y la reflexión sobre la educación.
             </p>
           </div>
         </div>
@@ -97,31 +100,11 @@
               3) COCONSTRUCCIÓN
             </h3>
             <p class="rich-text">
-              Al final de la cuarentena, publicaremos un documento sobre la situación del profesor y qué hemos pensado juntos sobre la educación
+              Durante la cuarentena, construiremos juntos una reflexión sobre la educación, el papel de la escuela, las relaciones educativas. Al final, publicaremos un informe con algunas conclusiones.
             </p>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-  <section class="section color-coral">
-    <div class="content">
-      <div class="form">
-        <h2 class="color-ft-blue-dark">
-          Inscríbete para participar y recibir los resultados
-        </h2>
-        <div id="mc_embed_signup">
-        <form action="https://vekante.us19.list-manage.com/subscribe/post?u=c177419fb2ec03ab855a78990&amp;id=c30aa179ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" rel="noreferrer noopener" novalidate>
-            <div id="mc_embed_signup_scroll">
-          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-mail" required>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div class="clear"><input type="submit" value="Enviar" name="subscribe" id="mc-embedded-subscribe" class="btn"></div>
-            </div>
-        </form>
-      </div>
-      </div>
-
-      <!--End mc_embed_signup-->
     </div>
   </section>
   <section class="section">
@@ -230,7 +213,29 @@
           </div>
         </a> -->
       </div>
-      <div class="btn-inicio">
+      </section>
+  <section class="section color-coral">
+    <div class="content">
+      <div class="form">
+        <h2 class="color-ft-blue-dark">
+          Inscríbete para participar y recibir los resultados
+        </h2>
+        <div id="mc_embed_signup">
+        <form action="https://vekante.us19.list-manage.com/subscribe/post?u=c177419fb2ec03ab855a78990&amp;id=c30aa179ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" rel="noreferrer noopener" novalidate>
+            <div id="mc_embed_signup_scroll">
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-mail" required>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div class="clear"><input type="submit" value="Enviar" name="subscribe" id="mc-embedded-subscribe" class="btn"></div>
+            </div>
+        </form>
+      </div>
+      </div>
+
+      <!--End mc_embed_signup-->
+    </div>
+  </section>
+    <section class="section">
+     <div class="btn-inicio">
         <a class="btn" href="#home">Volver al início</a>
       </div>
     </div>
